@@ -1,5 +1,7 @@
 # YOLO Vision Engine v6
 
+IM NOT USING RELEASES YET, JUST CLONE IT!!!!!!
+
 A Python-based computer vision application using a custom-trained YOLO model. The project includes screen capture, object detection, tracking, target selection, preview rendering, and macOS pointer-control components.
 
 ## Requirements
